@@ -25,3 +25,8 @@ Este projeto demonstra como obter a previsão do tempo para uma cidade específi
 - Desenvolver habilidades na análise de dados JSON para extrair informações específicas.
 
 Este repositório fornece exemplos práticos e código para ajudar você a começar com essas tarefas.
+
+## Visualização
+
+![2024-05-27](https://github.com/gabriellydsantos/previsao-tempo/assets/132919500/893d2a93-2e58-440b-b1af-7dfae11e9987)
+
